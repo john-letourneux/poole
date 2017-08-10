@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               John Letourneux  
+title:                
 tagline:            
 url:                 
 paginate:            1
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              John Letourneux
+  name:              
   url:               
-  email:             john.letourneux@gmail.com
+  email:             
 
 # Custom vars
 version:             2.0.0
