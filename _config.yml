@@ -7,7 +7,10 @@ tagline:             John Letourneux
 url:                 http://github.com/john-letourneux
 paginate:            1
 baseurl:             ""
-
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
